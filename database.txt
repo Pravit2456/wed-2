@@ -1,0 +1,212 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2025-02-06 22:17:00
+LastUsageStatisticCall<|||>1<|||>2025-02-06 22:17:07
+LastSessions<|||>1<|||>Unnamed-1
+LastActiveSession<|||>1<|||>Unnamed-1
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>40,100,152,90,60,65,50,117,130,139,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>922,100,80,120,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>806,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,1026
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+FileDialogEncoding_MainForm<|||>3<|||>0
+MainWinMaximized<|||>3<|||>1
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,316
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,316,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,188
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,256
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+querymemoheight<|||>3<|||>692
+CreateDbCollation<|||>1<|||>utf8mb4_uca1400_ai_ci
+MainWinLeft<|||>3<|||>97
+MainWinTop<|||>3<|||>121
+SessionManager_WindowLeft<|||>3<|||>495
+SessionManager_WindowTop<|||>3<|||>148
+FontSize<|||>3<|||>9
+WarnUnsafeUpdates<|||>3<|||>0
+SQLFile0<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-02-07_21-43-24-098.sql
+SQLFile1<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-02-07_21-33-59-084.sql
+SQLFile2<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-02-07_21-32-57-278.sql
+SQLFile3<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Backups\query-tab-2024-11-28_20-48-14-510.sql
+SQLFile4<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Backups\query-tab-2024-11-28_19-06-39-974.sql
+SQLFile5<|||>1<|||>C:\Users\ASUS\Desktop\wed อจ.ปุ้ย\table admin.sql
+SQLFile6<|||>1<|||>C:\Users\ASUS\Downloads\hospitalDB.sql
+SQLFile7<|||>1<|||>C:\Users\ASUS\Downloads\mysqlclassicmodels.sql
+SQLFile8<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Backups\query-tab-2024-01-15_22-57-35-065.sql
+Servers\hos\SessionCreated<|||>1<|||>2024-01-16 00:23:31
+Servers\hos\Host<|||>1<|||>127.0.0.1
+Servers\hos\WindowsAuth<|||>3<|||>0
+Servers\hos\CleartextPluginEnabled<|||>3<|||>0
+Servers\hos\User<|||>1<|||>root
+Servers\hos\Password<|||>1<|||>6
+Servers\hos\LoginPrompt<|||>3<|||>0
+Servers\hos\Port<|||>1<|||>3306
+Servers\hos\NetType<|||>3<|||>0
+Servers\hos\Compressed<|||>3<|||>0
+Servers\hos\LocalTimeZone<|||>3<|||>0
+Servers\hos\QueryTimeout<|||>3<|||>30
+Servers\hos\KeepAlive<|||>3<|||>20
+Servers\hos\FullTableStatus<|||>3<|||>1
+Servers\hos\Databases<|||>1<|||>
+Servers\hos\Library<|||>1<|||>libmariadb.dll
+Servers\hos\Comment<|||>1<|||>
+Servers\hos\StartupScriptFilename<|||>1<|||>
+Servers\hos\TreeBackground<|||>3<|||>536870911
+Servers\hos\SSHtunnelActive<|||>3<|||>0
+Servers\hos\SshExecutable<|||>1<|||>
+Servers\hos\SSHtunnelHost<|||>1<|||>
+Servers\hos\SSHtunnelHostPort<|||>3<|||>22
+Servers\hos\SSHtunnelUser<|||>1<|||>
+Servers\hos\SSHtunnelPassword<|||>1<|||>4
+Servers\hos\SSHtunnelTimeout<|||>3<|||>4
+Servers\hos\SSHtunnelPrivateKey<|||>1<|||>
+Servers\hos\SSHtunnelPort<|||>3<|||>3307
+Servers\hos\SSL_Active<|||>3<|||>0
+Servers\hos\SSL_Key<|||>1<|||>
+Servers\hos\SSL_Cert<|||>1<|||>
+Servers\hos\SSL_CA<|||>1<|||>
+Servers\hos\SSL_Cipher<|||>1<|||>
+Servers\hos\IgnoreDatabasePattern<|||>1<|||>
+Servers\hos\LogFileDdl<|||>3<|||>0
+Servers\hos\LogFileDml<|||>3<|||>0
+Servers\hos\LogFilePath<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\hos\RefusedCount<|||>3<|||>3
+Servers\Unnamed\SessionCreated<|||>1<|||>2024-01-15 23:13:37
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>5
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmysql.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelActive<|||>3<|||>0
+Servers\Unnamed\SshExecutable<|||>1<|||>plink.exe
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>6
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed\LogFileDdl<|||>3<|||>0
+Servers\Unnamed\LogFileDml<|||>3<|||>0
+Servers\Unnamed\LogFilePath<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Unnamed\ServerVersionFull<|||>1<|||>10.4.32-MariaDB - mariadb.org binary distribution
+Servers\Unnamed\ConnectCount<|||>3<|||>10
+Servers\Unnamed\ServerVersion<|||>3<|||>100432
+Servers\Unnamed\LastConnect<|||>1<|||>2024-11-28 20:48:14
+Servers\Unnamed\lastUsedDB<|||>1<|||>admin
+Servers\Unnamed\RefusedCount<|||>3<|||>4
+Servers\Unnamed-1\SessionCreated<|||>1<|||>2025-02-06 22:17:11
+Servers\Unnamed-1\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed-1\WindowsAuth<|||>3<|||>0
+Servers\Unnamed-1\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed-1\User<|||>1<|||>root
+Servers\Unnamed-1\Password<|||>1<|||>353637384
+Servers\Unnamed-1\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-1\Port<|||>1<|||>3306
+Servers\Unnamed-1\NetType<|||>3<|||>0
+Servers\Unnamed-1\Compressed<|||>3<|||>0
+Servers\Unnamed-1\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-1\QueryTimeout<|||>3<|||>30
+Servers\Unnamed-1\KeepAlive<|||>3<|||>20
+Servers\Unnamed-1\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-1\Databases<|||>1<|||>
+Servers\Unnamed-1\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed-1\Comment<|||>1<|||>database thaifood project wed2568
+Servers\Unnamed-1\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-1\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed-1\SSHtunnelActive<|||>3<|||>0
+Servers\Unnamed-1\SshExecutable<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed-1\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPassword<|||>1<|||>4
+Servers\Unnamed-1\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-1\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-1\SSL_Active<|||>3<|||>0
+Servers\Unnamed-1\SSL_Key<|||>1<|||>
+Servers\Unnamed-1\SSL_Cert<|||>1<|||>
+Servers\Unnamed-1\SSL_CA<|||>1<|||>
+Servers\Unnamed-1\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-1\SSL_Verification<|||>3<|||>2
+Servers\Unnamed-1\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed-1\LogFileDdl<|||>3<|||>0
+Servers\Unnamed-1\LogFileDml<|||>3<|||>0
+Servers\Unnamed-1\LogFilePath<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Unnamed-1\RefusedCount<|||>3<|||>6
+Servers\Unnamed-1\ServerVersionFull<|||>1<|||>11.6.2-MariaDB - mariadb.org binary distribution
+Servers\Unnamed-1\ConnectCount<|||>3<|||>4
+Servers\Unnamed-1\ServerVersion<|||>3<|||>110602
+Servers\Unnamed-1\LastConnect<|||>1<|||>2025-02-07 23:11:14
+Servers\Unnamed-1\lastUsedDB<|||>1<|||>thai_food
+Servers\Unnamed-1\QueryHistory\2<|||>1<|||>2025-02-07 19:05:19|thai_food|15|CREATE TABLE menus (<{{{><}}}>    id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    category VARCHAR(50),<{{{><}}}>    name VARCHAR(100),<{{{><}}}>    image VARCHAR(255),<{{{><}}}>    ingredients TEXT,<{{{><}}}>    recipe TEXT<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\1<|||>1<|||>2025-02-07 19:08:19|thai_food|0|INSERT INTO menus (category, name, image, ingredients, recipe) VALUES<{{{><}}}>('ทอด', 'ไก่ทอด', 'chicken.webp', 'เนื้อไก่, แป้งทอดกรอบ, เกลือ, พริกไทย, น้ำมัน', 'หมักไก่, คลุกแป้ง, ทอด'),<{{{><}}}>('ยำ', 'ยำวุ้นเส้น', 'yumvun.webp', 'วุ้นเส้น, หมูสับ, กุ้ง, มะเขือเทศ, น้ำปลา, น้ำตาล, น้ำมะนาว', 'ลวกวุ้นเส้น, คลุกเครื่องปรุง'),<{{{><}}}>('แกง', 'แกงเขียวหวาน', 'green_curry.webp', 'ไก่, กะทิ, พริกแกงเขียวหวาน, มะเขือ, ใบโหระพา', 'ผัดเครื่องแกง, ใส่กะทิ, ใส่ไก่');<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\4<|||>1<|||>2025-02-07 21:41:32|thai_food|16|INSERT INTO `menus` (`category`, `name`, `image`, `ingredients`, `recipe`)<{{{><}}}>VALUES <{{{><}}}>('อาหารทอด', 'ข้าวผัดกระเพราหมู', 'fried_rice.jpg', <{{{><}}}> 'ข้าวสวย, หมูสับ, พริกขี้หนู, กระเทียม, ซอสถั่วเหลือง, ใบกระเพรา, ไข่ดาว',<{{{><}}}> '1. ผัดกระเทียมและพริกขี้หนูในน้ำมันร้อน.\n2. ใส่หมูสับลงไปผัดจนสุก.\n3. ใส่ข้าวสวยและซอสถั่วเหลือง ผัดให้เข้ากัน.\n4. ใส่ใบกระเพราและผัดจนกลิ่นหอม.\n5. ตักข้าวใส่จานและเสิร์ฟกับไข่ดาว'),<{{{><}}}><{{{><}}}>('อาหารต้ม', 'ต้มยำกุ้ง', 'tomyum.jpg', <{{{><}}}> 'กุ้งสด, ตะไคร้, ใบมะกรูด, ข่าหั่นแว่น, พริกขี้หนู, น้ำปลา, น้ำมะนาว, เห็ดฟาง', <{{{><}}}> '1. ต้มน้ำให้เดือด ใส่ข่าหั่นแว่น ตะไคร้ และใบมะกรูดลงไป.\n2. ใส่กุ้งและเห็ดฟางลงไปต้มจนกุ้งสุก.\n3. ปรุงรสด้วยน้ำปลาและน้ำมะนาว.\n4. ใส่พริกขี้หนูและรอให้เดือดอีกครั้ง.\n5. เสิร์ฟร้อนๆ พร้อมข้าวสวย'),<{{{><}}}><{{{><}}}>('อาหารผัด', 'ผัดไทย', 'padthai.jpg', <{{{><}}}> 'เส้นจันท์, กุ้งสด, ไข่, ถั่วงอก, กระเทียม, น้ำตาลปี๊บ, น้ำมะขามเปียก, น้ำปลา, ถั่วลิสงคั่ว, มะนาว',<{{{><}}}> '1. ผัดกระเทียมและกุ้งในน้ำมันร้อน.\n2. ใส่เส้นจันท์ลงไปผัดจนเส้นนุ่ม.\n3. เติมน้ำตาลปี๊บ, น้ำมะขามเปียก, และน้ำปลาลงไปผัดให้เข้ากัน.\n4. ใส่ไข่ลงไปและผัดจนไข่สุก.\n5. เสิร์ฟพร้อมถั่วงอก, ถั่วลิสงคั่ว, และมะนาว'),<{{{><}}}><{{{><}}}>('อาหารยำ', 'ยำวุ้นเส้น', 'yumwoonsen.jpg', <{{{><}}}> 'วุ้นเส้น, หมูสับ, กุ้งต้มสุก, พริกขี้หนู, มะนาว, น้ำปลา, น้ำตาลทราย, ผักชี', <{{{><}}}> '1. ต้มวุ้นเส้นจนสุกและล้างน้ำเย็น.\n2. ผัดหมูสับให้สุกแล้วพักไว้.\n3. ผสมวุ้นเส้น, หมูสับ, และกุ้งในชาม.\n4. ปรุงรสด้วยพริกขี้หนู, น้ำปลา, น้ำมะนาว, และน้ำตาลทราย.\n5. โรยด้วยผักชีและเสิร์ฟเย็น')<{{{><}}}><{{{><}}}>
+Servers\Unnamed-1\QueryHistory\6<|||>1<|||>2025-02-07 21:46:25|thai_food|0|INSERT INTO `menus` (`category`, `name`, `image`, `ingredients`, `recipe`) VALUES<{{{><}}}>('อาหารผัด', 'ข้าวผัดกระเพราหมู', 'fried_rice.jpg', 'ข้าวสวย, หมูสับ, พริกขี้หนู, กระเทียม, ซอสถั่วเหลือง, ใบกระเพรา, ไข่ดาว', 'ผัดกระเทียมและพริกขี้หนูในน้ำมันร้อน ใส่หมูสับลงไปผัดจนสุก ใส่ข้าวสวยและซอสถั่วเหลือง ผัดให้เข้ากัน ใส่ใบกระเพราและผัดจนกลิ่นหอม ตักข้าวใส่จานและเสิร์ฟกับไข่ดาว'),<{{{><}}}>('อาหารต้ม', 'ต้มยำกุ้ง', 'tomyum.jpg', 'กุ้งสด, ตะไคร้, ใบมะกรูด, ข่าหั่นแว่น, พริกขี้หนู, น้ำปลา, น้ำมะนาว, เห็ดฟาง', 'ต้มน้ำให้เดือด ใส่ข่าหั่นแว่น ตะไคร้ และใบมะกรูดลงไป ใส่กุ้งและเห็ดฟางลงไปต้มจนกุ้งสุก ปรุงรสด้วยน้ำปลาและน้ำมะนาว ใส่พริกขี้หนูและรอให้เดือดอีกครั้ง เสิร์ฟร้อนๆ พร้อมข้าวสวย'),<{{{><}}}>('อาหารผัด', 'ผัดไทย', 'padthai.jpg', 'เส้นจันท์, กุ้งสด, ไข่, ถั่วงอก, กระเทียม, น้ำตาลปี๊บ, น้ำมะขามเปียก, น้ำปลา, ถั่วลิสงคั่ว, มะนาว', 'ผัดกระเทียมและกุ้งในน้ำมันร้อน ใส่เส้นจันท์ลงไปผัดจนเส้นนุ่ม เติมน้ำตาลปี๊บ, น้ำมะขามเปียก, และน้ำปลาลงไปผัดให้เข้ากัน ใส่ไข่ลงไปและผัดจนไข่สุก เสิร์ฟพร้อมถั่วงอก, ถั่วลิสงคั่ว, และมะนาว'),<{{{><}}}>('อาหารยำ', 'ยำวุ้นเส้น', 'yumwoonsen.jpg', 'วุ้นเส้น, หมูสับ, กุ้งต้มสุก, พริกขี้หนู, มะนาว, น้ำปลา, น้ำตาลทราย, ผักชี', 'ต้มวุ้นเส้นจนสุกและล้างน้ำเย็น ผัดหมูสับให้สุกแล้วพักไว้ ผสมวุ้นเส้น, หมูสับ, และกุ้งในชาม ปรุงรสด้วยพริกขี้หนู, น้ำปลา, น้ำมะนาว, และน้ำตาลทราย โรยด้วยผักชีและเสิร์ฟเย็น'),<{{{><}}}>('อาหารยำ', 'ส้มตำไทย', 'somtam.jpg', 'มะละกอสับ, แครอท, ถั่วฝักยาว, พริกขี้หนู, กระเทียม, น้ำปลา, น้ำมะนาว, น้ำตาลปี๊บ, ถั่วลิสงคั่ว', 'โขลกพริกขี้หนูและกระเทียมในครก ใส่ถั่วฝักยาวและมะละกอสับลงไป เติมน้ำปลา, น้ำมะนาว, น้ำตาลปี๊บและคลุกเคล้าให้เข้ากัน เสิร์ฟใส่จานแล้วโรยด้วยถั่วลิสงคั่ว'),<{{{><}}}>('อาหารแกง', 'แกงเขียวหวานไก่', 'green_curry_chicken.jpg', 'ไก่, มะเขือเปราะ, พริกแกงเขียวหวาน, กะทิ, ใบโหระพา, พริกขี้หนู', 'ผัดพริกแกงเขียวหวานกับกะทิให้หอม ใส่ไก่และมะเขือเปราะลงไป ต้มจนไก่สุก ใส่ใบโหระพาและพริกขี้หนู เสิร์ฟกับข้าวสวย'),<{{{><}}}>-- เพิ่มเมนูอื่น ๆ ตามนี้<{{{><}}}>('อาหารแกง', 'แกงมัสมั่น', 'massaman_curry.jpg', 'เนื้อวัว, มันฝรั่ง, พริกแกงมัสมั่น, กะทิ, ถั่วลิสง, ลูกเกด', 'ผัดพริกแกงมัสมั่นกับกะทิ ใส่เนื้อวัวและมันฝรั่งลงไป ต้มจนเนื้อสุก ใส่ถั่วลิสงและลูกเกด เสิร์ฟพร้อมข้าวสวย');<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\7<|||>1<|||>2025-02-07 21:46:29|thai_food|0|SELECT * FROM `menus`;<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\5<|||>1<|||>2025-02-07 21:47:00|thai_food|0|SELECT `category`, `name`, COUNT(*) <{{{><}}}>FROM `menus` <{{{><}}}>GROUP BY `category`, `name` <{{{><}}}>HAVING COUNT(*) > 1;<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\9<|||>1<|||>2025-02-07 21:48:00|thai_food|0|INSERT INTO `menus` (`category`, `name`) VALUES ('อาหารทอด', 'ข้าวผัดกระเพราหมู');<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\10<|||>1<|||>2025-02-07 21:56:32|thai_food|0|-- ลบข้อมูลซ้ำจากตาราง<{{{><}}}>DELETE FROM `menus`<{{{><}}}>WHERE `id` NOT IN (<{{{><}}}>    SELECT MAX(`id`)<{{{><}}}>    FROM `menus`<{{{><}}}>    GROUP BY `category`, `name`<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\3<|||>1<|||>2025-02-07 21:57:23|thai_food|0|DELETE m1<{{{><}}}>FROM `menus` m1<{{{><}}}>JOIN `menus` m2 <{{{><}}}>ON m1.`category` = m2.`category` <{{{><}}}>AND m1.`name` = m2.`name` <{{{><}}}>AND m1.`id` < m2.`id`;<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\8<|||>1<|||>2025-02-07 21:57:28|thai_food|0|INSERT INTO `menus` (`category`, `name`, `image`, `ingredients`, `recipe`) VALUES<{{{><}}}>('อาหารผัด', 'ข้าวผัดกระเพราหมู', 'fried_rice.jpg', 'ข้าวสวย, หมูสับ, พริกขี้หนู, กระเทียม, ซอสถั่วเหลือง, ใบกระเพรา, ไข่ดาว', 'ผัดกระเทียมและพริกขี้หนูในน้ำมันร้อน ใส่หมูสับลงไปผัดจนสุก ใส่ข้าวสวยและซอสถั่วเหลือง ผัดให้เข้ากัน ใส่ใบกระเพราและผัดจนกลิ่นหอม ตักข้าวใส่จานและเสิร์ฟกับไข่ดาว'),<{{{><}}}>('อาหารต้ม', 'ต้มยำกุ้ง', 'tomyum.jpg', 'กุ้งสด, ตะไคร้, ใบมะกรูด, ข่าหั่นแว่น, พริกขี้หนู, น้ำปลา, น้ำมะนาว, เห็ดฟาง', 'ต้มน้ำให้เดือด ใส่ข่าหั่นแว่น ตะไคร้ และใบมะกรูดลงไป ใส่กุ้งและเห็ดฟางลงไปต้มจนกุ้งสุก ปรุงรสด้วยน้ำปลาและน้ำมะนาว ใส่พริกขี้หนูและรอให้เดือดอีกครั้ง เสิร์ฟร้อนๆ พร้อมข้าวสวย'),<{{{><}}}>('อาหารผัด', 'ผัดไทย', 'padthai.jpg', 'เส้นจันท์, กุ้งสด, ไข่, ถั่วงอก, กระเทียม, น้ำตาลปี๊บ, น้ำมะขามเปียก, น้ำปลา, ถั่วลิสงคั่ว, มะนาว', 'ผัดกระเทียมและกุ้งในน้ำมันร้อน ใส่เส้นจันท์ลงไปผัดจนเส้นนุ่ม เติมน้ำตาลปี๊บ, น้ำมะขามเปียก, และน้ำปลาลงไปผัดให้เข้ากัน ใส่ไข่ลงไปและผัดจนไข่สุก เสิร์ฟพร้อมถั่วงอก, ถั่วลิสงคั่ว, และมะนาว'),<{{{><}}}>('อาหารยำ', 'ยำวุ้นเส้น', 'yumwoonsen.jpg', 'วุ้นเส้น, หมูสับ, กุ้งต้มสุก, พริกขี้หนู, มะนาว, น้ำปลา, น้ำตาลทราย, ผักชี', 'ต้มวุ้นเส้นจนสุกและล้างน้ำเย็น ผัดหมูสับให้สุกแล้วพักไว้ ผสมวุ้นเส้น, หมูสับ, และกุ้งในชาม ปรุงรสด้วยพริกขี้หนู, น้ำปลา, น้ำมะนาว, และน้ำตาลทราย โรยด้วยผักชีและเสิร์ฟเย็น'),<{{{><}}}>('อาหารยำ', 'ส้มตำไทย', 'somtam.jpg', 'มะละกอสับ, แครอท, ถั่วฝักยาว, พริกขี้หนู, กระเทียม, น้ำปลา, น้ำมะนาว, น้ำตาลปี๊บ, ถั่วลิสงคั่ว', 'โขลกพริกขี้หนูและกระเทียมในครก ใส่ถั่วฝักยาวและมะละกอสับลงไป เติมน้ำปลา, น้ำมะนาว, น้ำตาลปี๊บและคลุกเคล้าให้เข้ากัน เสิร์ฟใส่จานแล้วโรยด้วยถั่วลิสงคั่ว'),<{{{><}}}>('อาหารแกง', 'แกงเขียวหวานไก่', 'green_curry_chicken.jpg', 'ไก่, มะเขือเปราะ, พริกแกงเขียวหวาน, กะทิ, ใบโหระพา, พริกขี้หนู', 'ผัดพริกแกงเขียวหวานกับกะทิให้หอม ใส่ไก่และมะเขือเปราะลงไป ต้มจนไก่สุก ใส่ใบโหระพาและพริกขี้หนู เสิร์ฟกับข้าวสวย'),<{{{><}}}><{{{><}}}><{{{><}}}>('เมนูทอด', 'ไข่เจียว', 'egg-fried.jpg', 'ไข่ไก่, น้ำปลา, หอมแดง, ต้นหอม, น้ำมันพืช', 'ตีไข่ให้ฟูแล้วทอดในน้ำมันร้อนจนกรอบ เสิร์ฟพร้อมข้าวสวย'),<{{{><}}}>('เมนูแกง', 'แกงเขียวหวาน', 'green-curry.jpg', 'เนื้อไก่, กะทิ, พริกแกงเขียวหวาน, มะเขือเปราะ, ใบโหระพา', 'ต้มกะทิกับพริกแกงเขียวหวานจนเดือด ใส่เนื้อไก่และมะเขือเปราะ ต้มจนสุก เสิร์ฟร้อนๆ'),<{{{><}}}>('เมนูยำ', 'ยำวุ้นเส้น', 'yum-noodle.jpg', 'วุ้นเส้น, หมูยอ, หอมแดง, มะเขือเทศ, พริก, น้ำปลา, น้ำมะนาว', 'ลวกวุ้นเส้นและหมูยอ ผสมกับหอมแดง, มะเขือเทศ และน้ำยำที่ผสมไว้ ทานพร้อมข้าวสวย'),<{{{><}}}>('เมนูข้าว', 'ข้าวผัดกุ้ง', 'fried-rice-shrimp.jpg', 'ข้าวสวย, กุ้ง, ไข่ไก่, ผักบุ้ง, น้ำปลา, น้ำมันหอย', 'ผัดกุ้งกับข้าวสวยและไข่ไก่ เติมผักบุ้งและปรุงรสด้วยน้ำปลาและน้ำมันหอย เสิร์ฟร้อนๆ'),<{{{><}}}>('เมนูขนม', 'ขนมจีนน้ำยา', 'rice-noodles-curry.jpg', 'ขนมจีน, น้ำยาปลา, หอมแดง, ผักสด', 'ลวกขนมจีนแล้วราดน้ำยาปลาที่ต้มจนข้น ทานกับผักสดและเครื่องเคียง');<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\13<|||>1<|||>2025-02-07 22:30:53|thai_food|0|DELETE m1<{{{><}}}>FROM menus m1<{{{><}}}>JOIN menus m2 <{{{><}}}>ON m1.name = m2.name<{{{><}}}>AND m1.id > m2.id;<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\12<|||>1<|||>2025-02-07 22:30:55|thai_food|0|CREATE DATABASE IF NOT EXISTS thai_food<{{{><}}}>    CHARACTER SET utf8mb4<{{{><}}}>    COLLATE utf8mb4_uca1400_ai_ci;<{{{><}}}><{{{><}}}>
+Servers\Unnamed-1\QueryHistory\11<|||>1<|||>2025-02-07 22:31:27|thai_food|0|DELETE FROM menus<{{{><}}}>WHERE id NOT IN (<{{{><}}}>    SELECT MIN(id)<{{{><}}}>    FROM menus<{{{><}}}>    GROUP BY name, category<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\14<|||>1<|||>2025-02-07 22:32:08|thai_food|0|DELETE FROM menus;<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\16<|||>1<|||>2025-02-07 23:14:13|thai_food|0|CREATE TABLE IF NOT EXISTS menus (<{{{><}}}>    id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    category VARCHAR(255) NOT NULL,<{{{><}}}>    name VARCHAR(255) NOT NULL,<{{{><}}}>    image VARCHAR(255) NOT NULL,<{{{><}}}>    ingredients TEXT NOT NULL,<{{{><}}}>    recipe TEXT NOT NULL<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed-1\QueryHistory\15<|||>1<|||>2025-02-07 23:16:48|thai_food|0|CREATE TABLE IF NOT EXISTS menus (<{{{><}}}>    id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    category VARCHAR(255) NOT NULL,<{{{><}}}>    name VARCHAR(255) NOT NULL,<{{{><}}}>    image VARCHAR(255) NOT NULL,<{{{><}}}>    ingredients TEXT NOT NULL,<{{{><}}}>    recipe TEXT NOT NULL<{{{><}}}>);
+Servers\Unnamed-1\QueryHistory\17<|||>1<|||>2025-02-07 23:36:23|thai_food|0|INSERT INTO menus (category, name, image, ingredients, recipe) <{{{><}}}>VALUES <{{{><}}}>('อาหารคาว', 'ผัดไทย', 'uploads/padthai.jpg', <{{{><}}}>'วัตถุดิบ: <{{{><}}}>- เส้นก๋วยเตี๋ยว 200 กรัม <{{{><}}}>- ไข่ 2 ฟอง <{{{><}}}>- ถั่วงอก 100 กรัม <{{{><}}}>- กุ้ง 100 กรัม <{{{><}}}>- น้ำตาล 1 ช้อนโต๊ะ <{{{><}}}>- น้ำปลา 1 ช้อนโต๊ะ <{{{><}}}>- มะนาว 1 ลูก', <{{{><}}}>'วิธีทำ: <{{{><}}}>1. ทอดเส้นก๋วยเตี๋ยวในน้ำมันให้กรอบ<{{{><}}}>2. ใส่ไข่ลงไปผัดจนสุก<{{{><}}}>3. ใส่กุ้งและถั่วงอกลงไปผัด<{{{><}}}>4. เติมน้ำตาล, น้ำปลา และมะนาว ผัดให้เข้ากันจนรสชาติเค็มหวานลงตัว<{{{><}}}>5. เสิร์ฟร้อนๆ บนจาน');<{{{><}}}><{{{><}}}>INSERT INTO menus (category, name, image, ingredients, recipe) <{{{><}}}>VALUES <{{{><}}}>('อาหารคาว', 'ส้มตำ', 'uploads/somtam.jpg', <{{{><}}}>'วัตถุดิบ: <{{{><}}}>- มะละกอสุก 1 ลูก <{{{><}}}>- พริกขี้หนู 5 เม็ด <{{{><}}}>- กระเทียม 3 กลีบ <{{{><}}}>- มะเขือเทศ 2 ลูก <{{{><}}}>- ถั่วฝักยาว 50 กรัม <{{{><}}}>- น้ำตาลปี๊บ 1 ช้อนโต๊ะ <{{{><}}}>- น้ำปลา 1 ช้อนโต๊ะ <{{{><}}}>- น้ำมะนาว 1 ช้อนโต๊ะ', <{{{><}}}>'วิธีทำ: <{{{><}}}>1. โขลกพริกและกระเทียมให้ละเอียดในครก<{{{><}}}>2. ใส่มะละกอลงไปตำให้เข้ากัน<{{{><}}}>3. เติมน้ำตาลปี๊บ, น้ำปลา, และน้ำมะนาวผสมให้เข้ากัน<{{{><}}}>4. ใส่ถั่วฝักยาวและมะเขือเทศ ตำให้เข้ากัน แล้วเสิร์ฟ');<{{{><}}}><{{{><}}}>INSERT INTO menus (category, name, image, ingredients, recipe) <{{{><}}}>VALUES <{{{><}}}>('อาหารคาว', 'ข้าวผัดกระเพรา', 'uploads/kaopadkrapao.jpg', <{{{><}}}>'วัตถุดิบ: <{{{><}}}>- ข้าวสวย 1 ถ้วย <{{{><}}}>- เนื้อหมู 100 กรัม <{{{><}}}>- พริก 5 เม็ด <{{{><}}}>- กระเทียม 3 กลีบ <{{{><}}}>- ใบกระเพรา 1 กำ <{{{><}}}>- น้ำปลา 1 ช้อนโต๊ะ <{{{><}}}>- ไข่ดาว 1 ฟอง', <{{{><}}}>'วิธีทำ: <{{{><}}}>1. ผัดกระเทียมและพริกให้หอม<{{{><}}}>2. ใส่เนื้อหมูลงไปผัดจนสุก<{{{><}}}>3. ใส่ข้าวสวยผัดให้เข้ากัน<{{{><}}}>4. เติมน้ำปลาและปรุงรสตามชอบ<{{{><}}}>5. ใส่ใบกระเพรา ผัดให้เข้ากัน เสิร์ฟพร้อมไข่ดาว');<{{{><}}}><{{{><}}}>INSERT INTO menus (category, name, image, ingredients, recipe) <{{{><}}}>VALUES <{{{><}}}>('อาหารหวาน', 'ข้าวเหนียวมะม่วง', 'uploads/khao_niew_mamuang.jpg', <{{{><}}}>'วัตถุดิบ: <{{{><}}}>- ข้าวเหนียว 1 ถ้วย <{{{><}}}>- กะทิ 1 ถ้วย <{{{><}}}>- น้ำตาล 1/2 ถ้วย <{{{><}}}>- มะม่วงสุก 1 ลูก', <{{{><}}}>'วิธีทำ: <{{{><}}}>1. หุงข้าวเหนียวให้สุก<{{{><}}}>2. ผสมกะทิ, น้ำตาล และเกลือให้เข้ากันในข้าวเหนียว<{{{><}}}>3. นำข้าวเหนียวใส่จาน แล้วเสิร์ฟพร้อมมะม่วงสุกหั่นเป็นชิ้น');<{{{><}}}><{{{><}}}>INSERT INTO menus (category, name, image, ingredients, recipe) <{{{><}}}>VALUES <{{{><}}}>('อาหารคาว', 'แกงเขียวหวาน', 'uploads/green_curry.jpg', <{{{><}}}>'วัตถุดิบ: <{{{><}}}>- เนื้อไก่ 150 กรัม <{{{><}}}>- กะทิ 1 ถ้วย <{{{><}}}>- พริกแกงเขียวหวาน 2 ช้อนโต๊ะ <{{{><}}}>- มะเขือ 3 ลูก <{{{><}}}>- พริกชี้ฟ้า 2 เม็ด <{{{><}}}>- ใบโหระพา 1 กำ <{{{><}}}>- น้ำปลา 1 ช้อนโต๊ะ', <{{{><}}}>'วิธีทำ: <{{{><}}}>1. ผัดพริกแกงเขียวหวานในกะทิให้หอม<{{{><}}}>2. ใส่เนื้อไก่ลงไปผัดจนสุก<{{{><}}}>3. เติมกะทิอีกครั้ง ใส่มะเขือและพริกชี้ฟ้าลงไป<{{{><}}}>4. ใส่น้ำปลาและใบโหระพาผัดจนหอม เสิร์ฟร้อนๆ');<{{{><}}}>
